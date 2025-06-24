@@ -1,0 +1,13 @@
+Codigo,Nombre,RequiereVisa
+CCS,Caracas,NO
+AUA,Aruba,SI
+BON,Bonaire,SI
+CUR,Curazao,SI
+SXM,San Martín,SI
+SDQ,Santo Domingo,SI
+SBH,San Bartolomé,NO
+POS,Puerto España (Trinidad),NO
+BGI,Barbados,NO
+FDF,Fort de France (Martinica),NO
+PTP,Point a Pitre (Guadalupe),NO
+PAP,Port Au Prince (Haití),NO
